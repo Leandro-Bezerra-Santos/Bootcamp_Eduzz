@@ -1,0 +1,7 @@
+------------ CRITÉRIO DE ACEITE -------------
+
+ - É uma lista de critérios que precisam ser alcançados para que o User Story atenda os requisitos do usuário e seja aceita pelo PRODUCT OWNER, esses critérios ajuda o PO a detalhar em alto nível o que é nescessário para entregar o valor ao cliente
+
+--------- CLIENTE / STAKEHOLDER -----------
+
+- O stakeholder é uma pessoa ou um grupo que legitia as ações de uma organizações e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização. Desta forma, um stakeholder pode ser afetado positivamente ou negativamente.

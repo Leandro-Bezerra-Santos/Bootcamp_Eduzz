@@ -1,0 +1,29 @@
+-------------- Papeis e Responsabilidades ----------
+
+1- PRODUCT OWNER (PO)
+2- SCRUM MASTER (SM)
+3- TIME DE DESENVOLVIMENTO (DEV) => 3 A 9 PESSOAS
+
+
+------- PRODUCT OWNER (PO) --------
+
+- Representanteda área de Negócios,
+- Define as funcionalidades do software (Product backlog)
+- Prioriza as funcionalidades de acordo com o valor do negócio.
+- Garante que o time de desenvolvimento entenda os itens
+do backlog no nível nescessário
+
+-------- SCRUM MASTER (SM)---------------
+
+- Garantir o uso correto do SCRUM;
+- SCRUM Master não é gerente de Projetos;
+- Age como facilitador;
+- Auxilia a Product Owner no planejamento e estimativas 
+do backlog.
+- Auxilia a equipe a tirar impedimentos;
+- Treina o time em auto gerenciamento e interdiciplinariedade.
+
+---------- Time de desenvolvimento (DEV) ------------
+
+- Habilidades para desenvolver, criar e desenhar;
+- Faz tudo que for nescessário para entregar o softwarw funcionando.

@@ -1,0 +1,31 @@
+------------ GIT GUI ------------- 
+
+ - Uma interface gráfica baseada em Tcl / Tk para o Git. O git gui se concentra em permitir que os usuários façam alterações no seu repositório fazendo novos commit, melhorando os já existentes, criando ramificações, realizando mesclagens locais e buscando/impulsionando para os repositórios remotos.
+
+---------- GIT CLI --------------
+
+ - Interface de linha de comando e convenções Git
+
+------------ Navegação --------------
+ O que veremos:
+
+  - Abrir pastas
+  - lista das pastas 
+  - Criar pastas
+  - Deletar pastas/Arquivos
+  - Limpar o terminal
+
+ Windows:  
+   - cd
+   - dir 
+   - mkdir 
+   - del /rmdir
+   - cls
+
+ Unix:
+
+  - cd
+  - ls
+  - mdir 
+  - rm -rf
+  - clear

@@ -1,0 +1,20 @@
+------ CERIMÔNIAS DO SCRUM ---------
+
+TIME BOX = tempo máximo para fazer um cerimônia ou  sprint
+
+SPRINT = corrida, arrancada 
+ - É o principal evento do SCRUM
+
+Duração de 1 Sprint:
+ - 30 dias corridos (ou menos)
+
+----------- COMPOSIÇÃO DE UMA SPRINT ----------
+
+ - Reuniões Diárias (DAYLY MEETING)
+ - Revisão de Sprint (REVIEW)
+ - Restrospectiva da Sprint
+
+Quem participa ?
+ . PO
+ . SM
+ . DEV

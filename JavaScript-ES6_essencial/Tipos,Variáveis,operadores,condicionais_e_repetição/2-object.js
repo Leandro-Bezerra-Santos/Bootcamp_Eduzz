@@ -32,7 +32,7 @@ console.log("\nA variavel newObJ depois das alterações: ", newObj);
 const person = {name: 'Robson'};
 Object.seal(person);
 
-person.name   "Jhon locke";
+person.name  = "Jhon locke";
 delete person.name;
 person.age = 26;
 

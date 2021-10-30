@@ -8,3 +8,4 @@ arr.forEach((value, index) => {
 console.log(arr.map((arr, index) => `${index}: ${arr}`));
 
 console.log(fla.flat());//Retorna um array com o subarray concatenado
+    

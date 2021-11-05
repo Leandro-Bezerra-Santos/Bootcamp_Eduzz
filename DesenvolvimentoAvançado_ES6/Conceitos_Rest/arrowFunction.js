@@ -3,10 +3,10 @@ function log(value){
 }
 log("Function Comum !");
 
-const anonima = (function(param){
+const anonym = (function(param){
     console.log(param);
 });
-anonima("Função anonima");
+anonym("Função anonima");
 
 const sum = (a, b) => a + b;
 console.log(sum(2,2));
